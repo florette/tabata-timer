@@ -1,0 +1,14 @@
+{
+    "HIIT": [
+        {
+        "serie": ["Squats", "Push-ups"],
+        "repeat": 3
+        }, {
+        "serie": ["Lunges", "Plank"],
+        "repeat": 3
+        }, {
+        "serie": ["Skips", "Burpees"],
+        "repeat": 3
+        }
+    ]   
+}
